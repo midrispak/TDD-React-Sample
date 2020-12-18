@@ -4,17 +4,19 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### RUN/DEBUG
-### `yarn start`
+### INSTALL DEPENDENCIES
+`yarn install`
+
+### RUN / DEBUG
+`yarn start`
 
 Runs the app in the development mode.<br />
 
 ### TESTING
 `yarn test`
 
-### TESTING WITH COVERAGE REPORT
+### TESTING WITH CODE COVERAGE
 `yarn test --coverage`
-
 
 ### DEPLOYMENT
 `yarn build`
